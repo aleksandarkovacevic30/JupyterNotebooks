@@ -1,3 +1,7 @@
+<style type="text/css">
+    .alpha ol { list-style-type: lower-alpha; }
+</style>
+
 # Ziel der Schulung
 
 In dieser Schulung soll das Konzept der regulären Ausdrücke insbesondere für Fachanwender erläutert werden.
@@ -24,6 +28,7 @@ Bislang ist nicht klar, auf welcher Plattform dies durchgeführt werden soll. Hi
 
 Beschreibung der Schulungsumgebung und Vorgehensweise (noch offen, tbd).
 
+
 ## Lektion 1: Zeichen, Zahlen und Sonderzeichen
 
 Wenn wir in der Praxis von Textdarstellungen sprechen, so geht es im wesentlichen um drei immer um drei Gruppen:
@@ -47,10 +52,13 @@ DEUTDEFFXXX
 
 COBADEFFXXX
 
+<div class="alpha">
 
 -	Definiere Teilzeichenkette, die die Commerzbank BICs herausfiltern. 
 -	Welches Zeichen charakterisiert Commerzbank BICs im Beispiel minimal (Achtung: Die Lösung ist nicht eindeutig).
 -	Der Dezimale Ascii Code 40 stellt die linksoffene Klammer dar und kann mit der Tastenkombination Alt – 40 (Ziffernpad) abgerufen werden. Wie lautet der Ascii Code für das Zeichen „@“ ?
+
+</div>
     
 ### Übung 1b: Ziffern
 
