@@ -1,6 +1,6 @@
-<style type="text/css">
-    .alpha ol { list-style-type: lower-alpha; }
-</style>
+<script>
+    alert("hello");
+</script>
 
 # Ziel der Schulung
 
